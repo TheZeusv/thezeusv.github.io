@@ -4,7 +4,7 @@ Welcome to my personal web portfolio. This project showcases my academic backgro
 
 ## 🌐 Live Website
 
-[🔗 Visit my portfolio](https://thezeusv.github.io/MyPortfolio/)
+[🔗 Visit my portfolio](https://thezeusv.github.io/)
 
 ## 📌 Overview
 
